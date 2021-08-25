@@ -1,11 +1,16 @@
 
+
+
 import './App.css';
-import Restaurant from './restaurant/Restaurant';
+import UseReducer from './Hooks/useReducer';
+
+
+
 
 
 const App=()=> {
   return (
-   <Restaurant/>
+   <UseReducer/>
   );
   
 }
